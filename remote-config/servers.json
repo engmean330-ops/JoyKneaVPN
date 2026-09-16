@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updated_at": "2026-09-16T13:00:00Z",
+  "version": 3,
+  "updated_at": "2026-09-17T00:00:00Z",
   "minimum_app_version": 17,
   "servers": [
     {
@@ -18,6 +18,38 @@
       "enabled": true,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/vn-01.txt"
+    },
+    {
+      "id": "metfone-5g-01",
+      "name": "Metfone 5G Free",
+      "country": "GB",
+      "enabled": true,
+      "protocol": "vless",
+      "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/metfone-5g-01.txt"
+    },
+    {
+      "id": "metfone-vn-01",
+      "name": "Metfone Free Vietnam VPS",
+      "country": "VN",
+      "enabled": true,
+      "protocol": "vless",
+      "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/metfone-vn-01.txt"
+    },
+    {
+      "id": "smart-vn-01",
+      "name": "Smart SP Vietnam VPS",
+      "country": "VN",
+      "enabled": true,
+      "protocol": "vless",
+      "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/smart-vn-01.txt"
+    },
+    {
+      "id": "smart-uk-01",
+      "name": "Smart SP UK",
+      "country": "GB",
+      "enabled": true,
+      "protocol": "vless",
+      "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/smart-uk-01.txt"
     }
   ]
 }
