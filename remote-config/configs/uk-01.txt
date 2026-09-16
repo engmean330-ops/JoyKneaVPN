@@ -1,0 +1,1 @@
+vless://4d6b48ea-3a7f-43b7-8022-029a2373f351@v1.mister-chills.uk:80?path=%2Fpontai&security=none&encryption=none&host=www.wechat.com&type=ws#Uk
