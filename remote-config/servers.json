@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-16T00:00:00Z",
+  "minimum_app_version": 17,
+  "servers": [
+    {
+      "id": "kh-01",
+      "name": "Cambodia VPS 01",
+      "country": "KH",
+      "enabled": true,
+      "protocol": "vless",
+      "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/kh-01.txt"
+    }
+  ]
+}
