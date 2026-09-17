@@ -5,7 +5,7 @@
   "servers": [
     {
       "id": "uk-01",
-      "name": "United Kingdom VPS",
+      "name": "Metfone Free",
       "country": "GB",
       "enabled": true,
       "protocol": "vless",
@@ -13,7 +13,7 @@
     },
     {
       "id": "vn-01",
-      "name": "Vietnam VPS",
+      "name": "Metfone Free",
       "country": "VN",
       "enabled": true,
       "protocol": "vless",
@@ -21,7 +21,7 @@
     },
     {
       "id": "metfone-5g-01",
-      "name": "Metfone 5G Free",
+      "name": "Metfone Free",
       "country": "GB",
       "enabled": true,
       "protocol": "vless",
@@ -29,7 +29,7 @@
     },
     {
       "id": "metfone-vn-01",
-      "name": "Metfone Free Vietnam VPS",
+      "name": "Metfone Free",
       "country": "VN",
       "enabled": true,
       "protocol": "vless",
@@ -37,7 +37,7 @@
     },
     {
       "id": "smart-vn-01",
-      "name": "Smart SP Vietnam VPS",
+      "name": "Smart",
       "country": "VN",
       "enabled": true,
       "protocol": "vless",
@@ -45,7 +45,7 @@
     },
     {
       "id": "smart-uk-01",
-      "name": "Smart SP UK",
+      "name": "Smar",
       "country": "GB",
       "enabled": true,
       "protocol": "vless",
