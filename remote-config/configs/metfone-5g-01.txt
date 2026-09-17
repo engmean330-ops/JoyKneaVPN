@@ -1,1 +1,0 @@
-vless://4d6b48ea-3a7f-43b7-8022-029a2373f351@104.18.36.89:80?path=%2Fpontai&security=none&encryption=none&host=v1.mister-chills.uk&type=ws#Metfone%205G%20Free
