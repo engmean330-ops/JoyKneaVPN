@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "updated_at": "2026-09-18T03:15:00Z",
   "minimum_app_version": 17,
   "servers": [
@@ -167,7 +167,7 @@
       "id": "cellcard-random-01",
       "name": "Cellcard Free 1 Random IP",
       "country": "KH",
-      "enabled": false,
+      "enabled": true,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/cellcard-random-01.txt"
     },
