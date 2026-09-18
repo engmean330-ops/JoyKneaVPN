@@ -1,13 +1,13 @@
 {
-  "version": 6,
-  "updated_at": "2026-09-17T10:20:00Z",
+  "version": 7,
+  "updated_at": "2026-09-18T03:15:00Z",
   "minimum_app_version": 17,
   "servers": [
     {
       "id": "metfone-random-01",
       "name": "Metfone 1 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/metfone-random-01.txt"
     },
@@ -15,7 +15,7 @@
       "id": "metfone-random-02",
       "name": "Metfone 2 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/metfone-random-02.txt"
     },
@@ -23,7 +23,7 @@
       "id": "metfone-random-03",
       "name": "Metfone 3 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/metfone-random-03.txt"
     },
@@ -31,7 +31,7 @@
       "id": "metfone-random-04",
       "name": "Metfone 4 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/metfone-random-04.txt"
     },
@@ -39,7 +39,7 @@
       "id": "metfone-random-05",
       "name": "Metfone 5 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/metfone-random-05.txt"
     },
@@ -47,7 +47,7 @@
       "id": "metfone-random-06",
       "name": "Metfone 6 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/metfone-random-06.txt"
     },
@@ -55,7 +55,7 @@
       "id": "metfone-random-07",
       "name": "Metfone 7 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/metfone-random-07.txt"
     },
@@ -63,7 +63,7 @@
       "id": "metfone-random-08",
       "name": "Metfone 8 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/metfone-random-08.txt"
     },
@@ -71,7 +71,7 @@
       "id": "metfone-random-09",
       "name": "Metfone 9 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/metfone-random-09.txt"
     },
@@ -79,7 +79,7 @@
       "id": "metfone-random-10",
       "name": "Metfone 10 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/metfone-random-10.txt"
     },
@@ -87,7 +87,7 @@
       "id": "smart-sp-random-01",
       "name": "Smart Sp 1 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/smart-sp-random-01.txt"
     },
@@ -95,7 +95,7 @@
       "id": "smart-sp-random-02",
       "name": "Smart Sp 2 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/smart-sp-random-02.txt"
     },
@@ -103,7 +103,7 @@
       "id": "smart-sp-random-03",
       "name": "Smart Sp 3 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/smart-sp-random-03.txt"
     },
@@ -111,7 +111,7 @@
       "id": "smart-sp-random-04",
       "name": "Smart Sp 4 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/smart-sp-random-04.txt"
     },
@@ -119,7 +119,7 @@
       "id": "smart-sp-random-05",
       "name": "Smart Sp 5 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/smart-sp-random-05.txt"
     },
@@ -127,7 +127,7 @@
       "id": "smart-sp-random-06",
       "name": "Smart Sp 6 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/smart-sp-random-06.txt"
     },
@@ -135,7 +135,7 @@
       "id": "smart-sp-random-07",
       "name": "Smart Sp 7 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/smart-sp-random-07.txt"
     },
@@ -143,7 +143,7 @@
       "id": "smart-sp-random-08",
       "name": "Smart Sp 8 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/smart-sp-random-08.txt"
     },
@@ -151,7 +151,7 @@
       "id": "smart-sp-random-09",
       "name": "Smart Sp 9 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/smart-sp-random-09.txt"
     },
@@ -159,7 +159,7 @@
       "id": "smart-sp-random-10",
       "name": "Smart Sp 10 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/smart-sp-random-10.txt"
     },
@@ -167,7 +167,7 @@
       "id": "cellcard-random-01",
       "name": "Cellcard Free 1 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/cellcard-random-01.txt"
     },
@@ -175,7 +175,7 @@
       "id": "cellcard-random-02",
       "name": "Cellcard Free 2 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/cellcard-random-02.txt"
     },
@@ -183,7 +183,7 @@
       "id": "cellcard-random-03",
       "name": "Cellcard Free 3 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/cellcard-random-03.txt"
     },
@@ -191,7 +191,7 @@
       "id": "cellcard-random-04",
       "name": "Cellcard Free 4 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/cellcard-random-04.txt"
     },
@@ -199,7 +199,7 @@
       "id": "cellcard-random-05",
       "name": "Cellcard Free 5 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/cellcard-random-05.txt"
     },
@@ -207,7 +207,7 @@
       "id": "cellcard-random-06",
       "name": "Cellcard Free 6 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/cellcard-random-06.txt"
     },
@@ -215,7 +215,7 @@
       "id": "cellcard-random-07",
       "name": "Cellcard Free 7 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/cellcard-random-07.txt"
     },
@@ -223,7 +223,7 @@
       "id": "cellcard-random-08",
       "name": "Cellcard Free 8 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/cellcard-random-08.txt"
     },
@@ -231,7 +231,7 @@
       "id": "cellcard-random-09",
       "name": "Cellcard Free 9 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/cellcard-random-09.txt"
     },
@@ -239,7 +239,7 @@
       "id": "cellcard-random-10",
       "name": "Cellcard Free 10 Random IP",
       "country": "KH",
-      "enabled": true,
+      "enabled": false,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/cellcard-random-10.txt"
     }
