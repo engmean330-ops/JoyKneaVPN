@@ -1,1 +1,1 @@
-PASTE_VLESS_CONFIG_HERE
+vless://44533118-54e6-4aee-93d7-bbd835cea64d@104.18.36.89:443?path=%2F%E1%80%99%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9E%E1%80%AF%E1%80%8A&security=tls&encryption=none&host=cloud.asia-vpn.my.id&type=ws&sni=cloud.asia-vpn.my.id#dark-vless
