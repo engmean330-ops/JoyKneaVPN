@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "updated_at": "2026-09-18T03:15:00Z",
   "minimum_app_version": 17,
   "servers": [
@@ -15,7 +15,7 @@
       "id": "metfone-random-02",
       "name": "Metfone 2 Random IP",
       "country": "KH",
-      "enabled": false,
+      "enabled": true,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/metfone-random-02.txt"
     },
@@ -175,7 +175,7 @@
       "id": "cellcard-random-02",
       "name": "Cellcard Free 2 Random IP",
       "country": "KH",
-      "enabled": false,
+      "enabled": true,
       "protocol": "vless",
       "config_url": "https://raw.githubusercontent.com/engmean330-ops/JoyKneaVPN/main/remote-config/configs/cellcard-random-02.txt"
     },
