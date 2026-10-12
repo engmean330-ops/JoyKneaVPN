@@ -1,1 +1,1 @@
-vless://25a6868e-9455-4f49-a7fd-57bc13917650@172.64.151.167:443?path=%2Fvless&security=tls&encryption=none&host=mahboub.echotunnelscript.xyz&type=ws#echo
+vless://d7a8ae86-9904-4f71-8fe4-d754ded610d7@172.64.151.167:8080?security=none&sni=server6.diwir81236.workers.dev&type=ws&path=%2FeyJqdW5rIjoiOHNqQ3Bqc2dTZlppTEl1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&flow=&host=server6.diwir81236.workers.dev&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC+Join+Telegram%3A%40FREE_VPN14+%F0%9F%87%B8%F0%9F%87%AC
